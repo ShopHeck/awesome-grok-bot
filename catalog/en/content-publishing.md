@@ -1017,3 +1017,4 @@ Back to [README](../../README.md)
 - [Clip & Credit](https://x.ai/bot/nIZEY9uZwEw4B7CYLTrdS) - Turns a YouTube link, X video or topic into captioned highlight clips with creator credit. Kevin.
 - [Email System Desk](https://x.ai/bot/DQb-ZixJvS2hLN6x5PfUx) - Designs and drafts your business email system, sent only when you say yes. Pablo.
 - [dbs 内容教练](https://x.ai/bot/qonh7lyBBYsbUXsR9LtO2) - Helps creators make content more people want to read, from topics and drafting to titles, hooks, scripts and pre-publish checks, based on open-source dbskill. [dontbe](https://x.com/Sunkeke_AI).
+- [Stick Cut](https://x.ai/bot/rET0A-uXf1XKqb_z5vjwl) - Turns a two-sided concept into a looping stick-figure explainer for X, Reels, or TikTok. You post it. [Michael](https://x.com/MichaelHeckert).

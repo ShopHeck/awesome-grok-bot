@@ -162198,6 +162198,28 @@
       "updated": "2026-11-13",
       "shelf": "raw",
       "source": "https://x.com/i/status/2121185775794479600"
+    },
+    {
+      "slug": "stick-cut",
+      "name": "Stick Cut",
+      "author": {
+        "name": "Michael",
+        "url": "https://x.com/MichaelHeckert"
+      },
+      "summary": "Turns a two-sided concept into a looping stick-figure explainer for X, Reels, or TikTok. You post it.",
+      "summary_zh": "把正反两面的概念做成可循环的简笔画解说视频，用于 X、Reels 或 TikTok，由你自己发布。",
+      "import": "https://x.ai/bot/rET0A-uXf1XKqb_z5vjwl",
+      "category": "content-publishing",
+      "tags": [
+        "video",
+        "explainer",
+        "content",
+        "stick-figure"
+      ],
+      "license": "CC0-1.0",
+      "verified": false,
+      "updated": "2026-11-13",
+      "shelf": "raw"
     }
   ]
 }
